@@ -1,0 +1,34 @@
+.wrapper1 {
+	display: grid;
+	grid-template-columns: 50% 50%;
+	height: 50%;
+	width: 100%;
+}
+
+.wrapper2 {
+	display: grid;
+	grid-template-columns: 50% 50%;
+	height: 50%;
+	width: 100%;
+}
+
+.painel1 {
+	background-color: red;
+}
+
+.painel1 > img {
+	width: 100%;
+	height: 100%;
+}
+
+.painel2 {
+	background-color: blue;
+}
+
+.painel3 {
+	background-color: green;
+}
+
+.painel4 {
+	background-color: yellow;
+}
